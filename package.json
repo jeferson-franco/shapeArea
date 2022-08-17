@@ -1,0 +1,20 @@
+{
+  "name": "shapearea",
+  "version": "1.0.0",
+  "description": "Below we will define an `n`-interesting polygon. Your task is to find the area of a polygon for a given `n`.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeferson-franco/shapeArea.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeferson-franco/shapeArea/issues"
+  },
+  "homepage": "https://github.com/jeferson-franco/shapeArea#readme"
+}
