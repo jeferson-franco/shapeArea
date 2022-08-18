@@ -24,13 +24,3 @@ Guaranteed constraints:
 - [output] integer
 
 The area of the `n`-interesting polygon.
-
-[JavaScript] Syntax Tips
-```js
-// Prints help message to the console
-// Returns a string
-function helloWorld(name) {
-    console.log("This prints to the console when you Run Tests");
-    return "Hello, " + name;
-}
-```
